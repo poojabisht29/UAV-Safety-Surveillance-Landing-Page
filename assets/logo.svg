@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="120" fill="#0F4C34"/>
+  <!-- Outer Shield Outline -->
+  <path d="M256 84 C 330 136, 382 144, 392 146 V 270 C 392 358, 308 418, 256 438 C 204 418, 120 358, 120 270 V 146 C 130 144, 182 136, 256 84 Z" fill="none" stroke="#FFFFFF" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Location Pin -->
+  <path d="M256 156 C 218 156, 188 186, 188 224 C 188 274, 256 332, 256 332 C 256 332, 324 274, 324 224 C 324 186, 294 156, 256 156 Z" fill="#FFFFFF"/>
+  <!-- Pin Inner Hole -->
+  <circle cx="256" cy="220" r="26" fill="#0F4C34"/>
+  <!-- Winding Path flowing out from base of pin through bottom of shield -->
+  <path d="M 180 370 Q 230 310, 256 325 T 320 405 C 298 420, 276 428, 256 434 C 228 418, 202 396, 180 370 Z" fill="#FFFFFF"/>
+</svg>
